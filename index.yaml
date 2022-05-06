@@ -1,1 +1,9 @@
+# For proof of concept only
+verion: 0
 
+sources:
+
+  ruleset1:
+    summary: Demo
+    description: Proof of concept ruleset for update testing
+    url: https://raw.githubusercontent.com/ehallpars/suricata_tests/main/demo.rules
